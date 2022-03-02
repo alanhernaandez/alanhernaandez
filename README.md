@@ -1,6 +1,7 @@
-### Hi there 👋 I'm Alan Hernandez,
+### Hola a todos 👋 Soy Alan Hernandez 👨‍💻,
 
-A data engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+Soy estudiante de la carrera de Ingeniería de Software, de la Universidad Autónoma de Querétaro. Me gusta aprender algo nuevo cada día, me gusta la inteligencia artificial 🤖, la ciberseguridad 🔒 y sobre todo desarrollar proyectos donde pueda mejorar mis habilidades tanto profesionales como humanas. 🙂👾 
+
 
 
 - ⚡ *Fun fact:* I believe in the Chaos theory: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
