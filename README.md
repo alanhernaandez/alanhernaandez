@@ -1,16 +1,15 @@
-### Hola a todos 👋 Soy Alan Hernandez 👨‍💻,
+<h1 align="center"> Hola a todos 👋, Soy Alan Hernandez 👨‍💻,</p></h1>
+
+
 
 Soy estudiante de la carrera de Ingeniería de Software, de la Universidad Autónoma de Querétaro. Me gusta aprender algo nuevo cada día, me gusta la inteligencia artificial 🤖, la ciberseguridad 🔒 y sobre todo desarrollar proyectos donde pueda mejorar mis habilidades tanto profesionales como humanas. 🙂👾 
 
+<hr>
 
-
-- ⚡ *Fun fact:* I believe in the Chaos theory: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently working on:
-	- Linear regression on Health data
-	- Twitter Sentimental Analysis using NLP and clustering
-- :bulb: I'm interested in all things data: *Big Data, Cloud, Machine Learning and Data Science*
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
-- 🌱 I’m currently pursuing *Machine learning*.
+- ⚡ *Fun fact >* Soy programador, pero no hackeo facebook ni arreglo impresoras.
+- 🗣 Estoy buscando colaborar > Con cualquier proyecto que pueda generar un beneficio a la sociedad.
+- 💬 Puedes hablarme sobre > Videojuegos, series, libros, tecnologia o cualquier cosa que te interese. 😀
+- 🌱 Actualmente estoy aprendiendo > Python, Desarrollo Móvil con Flutter, Desarrollo web Front-End. 💫
 
 ### My skills include
 
