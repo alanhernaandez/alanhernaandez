@@ -13,7 +13,6 @@ Soy estudiante de la carrera de Ingeniería de Software, de la Universidad Autó
 
 
 
-
 <p align="center">
 	<img title="C++" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="70" height="30" /> 
 	<img title="JAVA" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="70" height="30" />
@@ -22,6 +21,12 @@ Soy estudiante de la carrera de Ingeniería de Software, de la Universidad Autó
 	<img title="PHP" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="70" height="30" />
 	<img title="MySQL" alt="MySQL" src="https://img.shields.io/badge/MySQL-0D1117.svg?style=rounded-square&logo=mysql&logoColor=blue" width="90" height="30" />
 	<img title="Git" alt="Git" src="https://img.shields.io/badge/Git-0D1117.svg?style=rounded-square&logo=git&logoColor=Orange" width="70" height="30" />
+</p>
+
+## IDE's
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/-VSCode-0D1117?style=rounded-square&logo=visualstudiocode&logoColor=blue" width="85" height="30"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Eclipse-0D1117.svg?style=rounded-square&logo=eclipse&logoColor=orange" width="85" height="30"/></a>
 </p>
 
    
