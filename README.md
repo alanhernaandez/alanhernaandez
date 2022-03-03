@@ -1,23 +1,23 @@
-<h1 align="center"> Hola a todos 👋, Soy Alan Hernandez 👨‍💻,</p></h1>
+<h1 align="center"> Hola a todos 👋, Soy Alan Hernandez 👨‍💻.</p></h1>
 
 
 
 Soy estudiante de la carrera de Ingeniería de Software, de la Universidad Autónoma de Querétaro. Me gusta aprender algo nuevo cada día, me gusta la inteligencia artificial 🤖, la ciberseguridad 🔒 y sobre todo desarrollar proyectos donde pueda mejorar mis habilidades tanto profesionales como humanas. 🙂👾 
-
+## Sobre mi 🙋‍♂️
 <hr>
 
 - ⚡ *Fun fact >* Soy programador, pero no hackeo facebook ni arreglo impresoras.
 - 🗣 Estoy buscando colaborar > Con cualquier proyecto que pueda generar un beneficio a la sociedad.
 - 💬 Puedes hablarme sobre > Videojuegos, series, libros, tecnologia o cualquier cosa que te interese. 😀
 - 🌱 Actualmente estoy aprendiendo > Python, Desarrollo Móvil con Flutter, Desarrollo web Front-End. 💫
-
+## Skills ⚙️
 <hr>
 
-### Skills ⚙️
+
 
 <p align="center">
 	<img title="C++" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="70" height="30" /> 
-	<img title="JAVA" alt="JAVA" src="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="70" height="30" />
+	<img title="JAVA" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="70" height="30" />
 	<img title="C#" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="70" height="30" />
 	<img title="HTML" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="70" height="30" />
 	<img title="PHP" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="70" height="30" />
@@ -26,19 +26,12 @@ Soy estudiante de la carrera de Ingeniería de Software, de la Universidad Autó
 </p>
 
    
-    
-    
-*If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.*
+## Puedes contactarme en  👇🏻
 <hr>
-<p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
-   <br>
-   <i>You miss 100% of the shots you don't take.</i>
-   <br>
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@thomas_george_thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<p align="center">	
+<a target="_blank" href="mailto:ingalanhernaandez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
+<br>
+<i>" La vida es más sencilla si eres tú quien la programa "</i>
+   <br>
 </p>
