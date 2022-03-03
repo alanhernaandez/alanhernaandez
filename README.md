@@ -4,14 +4,13 @@
 
 Soy estudiante de la carrera de Ingeniería de Software, de la Universidad Autónoma de Querétaro. Me gusta aprender algo nuevo cada día, me gusta la inteligencia artificial 🤖, la ciberseguridad 🔒 y sobre todo desarrollar proyectos donde pueda mejorar mis habilidades tanto profesionales como humanas. 🙂👾 
 ## Sobre mi 🙋‍♂️
-<hr>
 
 - ⚡ *Fun fact >* Soy programador, pero no hackeo facebook ni arreglo impresoras.
 - 🗣 Estoy buscando colaborar > Con cualquier proyecto que pueda generar un beneficio a la sociedad.
 - 💬 Puedes hablarme sobre > Videojuegos, series, libros, tecnologia o cualquier cosa que te interese. 😀
 - 🌱 Actualmente estoy aprendiendo > Python, Desarrollo Móvil con Flutter, Desarrollo web Front-End. 💫
 ## Skills ⚙️
-<hr>
+
 
 
 
@@ -27,7 +26,6 @@ Soy estudiante de la carrera de Ingeniería de Software, de la Universidad Autó
 
    
 ## Puedes contactarme en  👇🏻
-<hr>
 <p align="center">	
 <a target="_blank" href="mailto:ingalanhernaandez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
