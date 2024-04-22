@@ -2,13 +2,13 @@
 
 
 
-Soy estudiante de la carrera de Ingeniería de Software, de la Universidad Autónoma de Querétaro. Me gusta aprender algo nuevo cada día, me gusta la inteligencia artificial 🤖, la ciberseguridad 🔒 y sobre todo desarrollar proyectos donde pueda mejorar mis habilidades tanto profesionales como humanas. 🙂👾 
+Soy estudiante de la carrera de Ingeniería de Software, de la Universidad Autónoma de Querétaro. Me gusta aprender algo nuevo cada día, me gusta el desarrollo web 🤖, la ciberseguridad 🔒 y sobre todo desarrollar proyectos donde pueda mejorar mis habilidades tanto profesionales como humanas. 🙂👾 
 ## Sobre mi 🙋‍♂️
 
 - ⚡ *Fun fact >* Soy programador, pero no hackeo facebook ni arreglo impresoras.
 - 🗣 Estoy buscando colaborar > Con cualquier proyecto que pueda generar un beneficio a la sociedad.
 - 💬 Puedes hablarme sobre > Videojuegos, series, libros, tecnologia o cualquier cosa que te interese. 😀
-- 🌱 Actualmente estoy aprendiendo > Python, Desarrollo Móvil con Flutter, Desarrollo web Front-End. 💫
+- 🌱 Actualmente estoy aprendiendo >  Desarrollo web Front-End, Next.JS, Node.JS, React 💫
 ## Skills ⚙️
 
 
